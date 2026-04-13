@@ -1,1 +1,5 @@
-vless://8fbcf17c-ff46-405f-ac3c-971c80b86a7e@199.231.235.63:443?type=tcp&encryption=none&security=reality&pbk=5WdCZNBiSpn4whVT4uXbr7efutUF1ecUEW_G2IWf32Y&fp=chrome&sni=coursera.org&sid=af&spx=%2F&flow=xtls-rprx-vision#TCP-ohwicv1u vless://8fbcf17c-ff46-405f-ac3c-971c80b86a7e@199.231.235.63:443?type=tcp&encryption=none&security=reality&pbk=5WdCZNBiSpn4whVT4uXbr7efutUF1ecUEW_G2IWf32Y&fp=chrome&sni=coursera.org&sid=af&spx=%2F&flow=xtls-rprx-vision#TCP-ohwicv1u hy2://admin:Zi4n5qqHdRF5AyLP3houyY5S8ZlPg02h@199.231.235.63:3478?insecure=1&sni=coursera.org&pinSHA256=9F:D9:D7:17:60:27:CF:5C:DF:92:21:EB:5C:05:C6:7C:C0:E4:6C:9F:DA:36:5E:62:5D:32:8D:E9:DC:94:3E:9F#IPv4
+vless://8fbcf17c-ff46-405f-ac3c-971c80b86a7e@199.231.235.63:443?type=tcp&encryption=none&security=reality&pbk=5WdCZNBiSpn4whVT4uXbr7efutUF1ecUEW_G2IWf32Y&fp=chrome&sni=coursera.org&sid=af&spx=%2F&flow=xtls-rprx-vision#TCP-ohwicv1u 
+
+vless://8fbcf17c-ff46-405f-ac3c-971c80b86a7e@199.231.235.63:443?type=tcp&encryption=none&security=reality&pbk=5WdCZNBiSpn4whVT4uXbr7efutUF1ecUEW_G2IWf32Y&fp=chrome&sni=coursera.org&sid=af&spx=%2F&flow=xtls-rprx-vision#TCP-ohwicv1u 
+
+hy2://admin:Zi4n5qqHdRF5AyLP3houyY5S8ZlPg02h@199.231.235.63:3478?insecure=1&sni=coursera.org&pinSHA256=9F:D9:D7:17:60:27:CF:5C:DF:92:21:EB:5C:05:C6:7C:C0:E4:6C:9F:DA:36:5E:62:5D:32:8D:E9:DC:94:3E:9F#IPv4
